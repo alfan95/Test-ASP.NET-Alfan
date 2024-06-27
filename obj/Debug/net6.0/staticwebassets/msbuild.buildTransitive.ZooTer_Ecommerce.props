@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZooTer_Ecommerce.props" />
+</Project>
